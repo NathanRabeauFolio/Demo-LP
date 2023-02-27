@@ -1,6 +1,12 @@
 <footer class="site-footer">
-  <small>
-    Website built with <a href="https://www.11ty.dev/" target="_blank">Eleventy</a>.
-    Source code on <a href="{{ pkg.repository.url }}" target="_blank">GitHub</a>.
-  </small>
+<iframe
+  width="100%"
+  height="450"
+  style="border:0"
+  loading="lazy"
+  allowfullscreen
+  referrerpolicy="no-referrer-when-downgrade"
+  src="https://www.google.com/maps/embed/v1/place?key={{ global.Gmap_key }}
+    &q={{ global.client }},{{ pdv.adresse }}+{{ pdv.cp }}+{{ pdv.ville }}">
+</iframe>
 </footer>

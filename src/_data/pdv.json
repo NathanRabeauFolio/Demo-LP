@@ -15,5 +15,14 @@
       "tel":"02 97 47 72 47",
       "url_lp":"https://www.lissac.fr/magasins/lissac-l-opticien-vannes",
       "facebook":"https://www.facebook.com/LissacOpticienVannes/"
-    }
+    },
+
+    {
+        "ville": "Saint Médard en Jalles",
+        "adresse": "33, place des Lices",
+        "cp": "56000",
+        "tel":"02 97 47 72 47",
+        "url_lp":"https://www.lissac.fr/magasins/lissac-l-opticien-vannes",
+        "facebook":"https://www.facebook.com/LissacOpticienVannes/"
+      }
   ]
