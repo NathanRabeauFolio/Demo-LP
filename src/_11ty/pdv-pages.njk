@@ -1,0 +1,10 @@
+---
+layout: 'base.njk'
+pagination:
+    data: pdv
+    size: 1
+    alias: pdv
+permalink: "{{ pdv.ville | slug }}/"
+---
+
+<h1 class="text-3xl text-green-800 font-bold underline">{{ pdv.ville }}</h1>
